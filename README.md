@@ -1,2 +1,2 @@
 # Personal
-This branch named 'Personal_Demo' is a copy of main branch 'Personal'
+## This secondary branch will get merged to the main branch - 'Personal'
